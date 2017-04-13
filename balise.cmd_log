@@ -1,0 +1,4 @@
+xst -ise "H:/tp_numerique/balise/balise.ise" -intstyle ise -ifn balise.xst -ofn balise.syr
+xst -ise "H:/tp_numerique/balise/balise.ise" -intstyle ise -ifn balise.xst -ofn balise.syr
+xst -ise "H:/tp_numerique/balise/balise.ise" -intstyle ise -ifn balise.xst -ofn balise.syr
+xst -ise "H:/tp_numerique/balise/balise.ise" -intstyle ise -ifn balise.xst -ofn balise.syr

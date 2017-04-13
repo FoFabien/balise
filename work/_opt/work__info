@@ -1,0 +1,43 @@
+m255
+13
+cModel Technology
+dH:\tp_numerique\balise
+T_opt
+V9XEJ;8ZLM62@W<E]Llk721
+04 6 4 work balise test 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+Ebalise
+w1257246432
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+dH:\tp_numerique\balise
+8H:/tp_numerique/balise/vhdl.vhd
+FH:/tp_numerique/balise/vhdl.vhd
+l0
+L7
+VCWY=d<Eh4WKL5DNJHefFk1
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Atest
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work balise CWY=d<Eh4WKL5DNJHefFk1
+32
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l18
+L15
+V1AT]kNgRfDEgbDBa>j4A60
+OE;C;6.2e;35
+o-work work
+tExplicit 1
